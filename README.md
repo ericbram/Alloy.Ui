@@ -26,6 +26,12 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-## Alloy documentation
+## Reporting bugs and requesting features
 
-In addition to the [Alloy API Readme](https://github.com/cmu-sei/crucible/blob/master/alloy.api/README.md) and **Alloy UI Readme** found in their respective repositories, Alloy documentation can be found in the Crucible wiki. Get started with Alloy [here](https://github.com/cmu-sei/crucible/wiki/Alloy-Quick-Start).
+Think you found a bug? Please report all Crucible bugs - including bugs for the individual Crucible apps - in the [cmu-sei/crucible issue tracker](https://github.com/cmu-sei/crucible/issues). 
+
+Include as much detail as possible including steps to reproduce, specific app involved, and any error messages you may have received.
+
+Have a good idea for a new feature? Submit all new feature requests through the [cmu-sei/crucible issue tracker](https://github.com/cmu-sei/crucible/issues). 
+
+Include the reasons why you're requesting the new feature and how it might benefit other Crucible users.
